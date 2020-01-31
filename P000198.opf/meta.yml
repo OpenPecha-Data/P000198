@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: བར་དོའི་ཐོས་གྲོལ་ཆེན་མོའི་ཆོས་སྐོར་ཕྱོགས་བསྒྲིགས་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། གྲུབ་ཐོབ་ཀརྨ་གླིང་པ་སོགས་ཀྱིས་མཛད།
+  sku: SHE-015
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Collection of Teachings on the Great Liberation through Hearing in the Bardo
+    bo: བར་དོའི་ཐོས་གྲོལ་ཆེན་མོའི་ཆོས་སྐོར་ཕྱོགས་བསྒྲིགས་བཞུགས་སོ།
+  collection:
+    en: Shechen Tantra Series–  Book 15
+    bo: ''
+  author:
+    en: Drubthob Karma Lingpa
+    bo: གྲུབ་ཐོབ་ཀརྨ་གླིང་པ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-015
+  category:
+    en: Pith Instructions
+    bo: མན་ངག
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-015.epub
+  description:
+    en: ''
+    bo: ''
