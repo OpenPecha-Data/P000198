@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000198
+initial_creation_type: ebook
+source_metadata:
   title: བར་དོའི་ཐོས་གྲོལ་ཆེན་མོའི་ཆོས་སྐོར་ཕྱོགས་བསྒྲིགས་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། གྲུབ་ཐོབ་ཀརྨ་གླིང་པ་སོགས་ཀྱིས་མཛད།
-  sku: SHE-015
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: SHE-015
 web_metadata:
   title:
     en: A Collection of Teachings on the Great Liberation through Hearing in the Bardo
